@@ -24,3 +24,4 @@ Pods
 ObjectiveC.gcda
 
 *.gcno
+/.swiftpm
